@@ -11,7 +11,17 @@
 
 ## 注册
 
-![NCUT-BBS注册流程](https://picture.fatech.online/20210307001656.png?x-oss-process=style/blog-picture)
+![NCUT-BBS注册流程-2](https://picture.fatech.online/20210307104352.png?x-oss-process=style/blog-picture)
+
+用户启动App之后会有以下可能状态：
+
+* 未登陆
+* 已注册但未提交实名认证
+* 已提交实名认证在等待人工审核
+* 实名认证未通过
+* 已登陆
+
+![未命名文件](https://picture.fatech.online/20210307110028.png?x-oss-process=style/blog-picture)
 
 ## 登陆
 
